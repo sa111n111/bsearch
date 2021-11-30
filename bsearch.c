@@ -70,10 +70,10 @@ death:
 int main(int argc, char* argv) 
 {
 
-    int array[] = {0, 1, 2, 4, 3, 4, 5};
+/*  int array[] = {0, 1, 2, 4, 3, 4, 5};
     int wanted = 6;
     int arraySize = sizeof(array)/ sizeof(array[0]);
     binary_search(array, 0, arraySize-1, wanted);
-    
+*/
     getch();
 }
